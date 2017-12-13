@@ -108,5 +108,5 @@ For more information, see https://cloud.google.com/monitoring/uptime-checks/
 [uptime_1_docs]: https://cloud.google.com/monitoring/docs
 [uptime_1_code]: uptime.js
 
-[shell_img]: http://gstatic.com/cloudssh/images/open-btn.png
+[shell_img]: http://gstatic.com/cloudssh/images/open-btn.svg
 [shell_link]: https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-monitoring&page=editor&open_in_editor=samples/README.md
